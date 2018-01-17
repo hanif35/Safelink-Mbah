@@ -131,7 +131,7 @@ function auto_safeconvert() {
         }
         if (a_to_vh == false) {
             var encryptedUrl = Base64.encode(a_to_vi);
-            a_to_ve[i].href = "https://www.mbahhanif.site/p/safelink.html?url=" + encryptedUrl;
+            a_to_ve[i].href = "https://terlengkap01.blogspot.co.id/p/hijab-safelink.html?url=" + encryptedUrl;
             a_to_ve[i].rel = "nofollow";
             a_to_vb++;
             a_to_vc += i + ":::" + a_to_ve[i].href + "\n";
